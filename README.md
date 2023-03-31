@@ -12,7 +12,7 @@ The tracert command allow you to trace the amount of hops aken for a source to a
 
 <b>Part 1: Determine Network Connectivity to a Destination Host</b>
 
-Navigate to the Command Prompt, enter <b>ping www.cisco.com</b> to determine if it is reachable.
+Navigate to the Command Prompt, enter <b>ping www.facebook.com</b> to determine if it is reachable.
 Now ping one of the Regional Internet Registry (RIR) websites located in different parts of the world to determine if it is reachable:
 
   
@@ -21,5 +21,7 @@ Now ping one of the Regional Internet Registry (RIR) websites located in differe
          South America:         www.lacnic.net
 
          North America:         www.arin.net
-         
-         
+        
+<p align="center">
+<img src=""/>
+</p>
