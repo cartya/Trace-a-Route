@@ -30,4 +30,6 @@ Now ping one of the Regional Internet Registry (RIR) websites located in differe
 Each hop in the tracert results displays the routes that the packets take when traveling to the final destination.  When the final destination is reached, an ICMP echo reply is sent to the source host.
 
   <b>Step 3:</b>
- trace the route to www.cisco.com.
+ Trace the route to www.amazon.com
+ 
+ 
