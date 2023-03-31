@@ -25,3 +25,8 @@ Now ping one of the Regional Internet Registry (RIR) websites located in differe
 <p align="center">
 <img src="Screenshot (80).png"/>
 </p>
+
+<b>Part : Trace a route to a remote server with [tracert](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tracert)</b>
+
+Each hop in the tracert results displays the routes that the packets take when traveling to the final destination. The PC sends three ICMP echo request packets to the remote host. When the final destination is reached, an ICMP echo reply is sent to the source host.
+
