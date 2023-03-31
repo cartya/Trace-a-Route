@@ -38,10 +38,4 @@ Each hop in the tracert results displays the routes that the packets take when t
  
  <b>Step 4: Trace a Route to a RIR website</b>
 
-         Australia:             www.apnic.net
-
-         South America:         www.lacnic.net
-
-         North America:         www.arin.net
-
-b.    A web-based whois tool is found at https://traceroute-online.com//. It can be used to determine thedomains traveled from the source to destination
+**    A web-based tool https://traceroute-online.com// can be used to determine the domains traveled from the source to destination.
