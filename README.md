@@ -32,4 +32,7 @@ Each hop in the tracert results displays the routes that the packets take when t
   <b>Step 3:</b>
  Trace the route to www.amazon.com
  
+ <p align="center">
+<img src="Screenshot (81).png"/>
+</p>
  
