@@ -35,7 +35,5 @@ Each hop in the tracert results displays the routes that the packets take when t
  <p align="center">
 <img src="Screenshot (81).png"/>
 </p>
- 
- <b>Step 4: Trace a Route to a RIR website</b>
 
 **    A web-based tool https://traceroute-online.com// can be used to determine the domains traveled from the source to destination.
